@@ -1,5 +1,4 @@
-name = "DBCraft"
+name = "FoxNone"
 type = "prg"
-repo = "https://raw.githubusercontent.com/Irwin1985/FoxNone/main/vfp/FoxNone.prg"
-classes = ["MSSQL", "MySQL", "MariaDB", "Firebird", "SQLite", "PostgreSQL"]
+repo = "https://raw.githubusercontent.com/Irwin1985/FoxNone/main/FoxNone.prg"
 version = "0.0.1"
